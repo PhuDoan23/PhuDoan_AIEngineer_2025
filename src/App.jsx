@@ -66,7 +66,7 @@ const Portfolio = () => {
 
           <a 
             href="mailto:phudoan161@gmail.com"
-            className="px-4 py-2 text-sm font-medium text-white bg-slate-900 rounded hover:bg-slate-800 transition-colors"
+            className="px-4 py-2 text-sm font-semibold text-white bg-blue-700 rounded-lg shadow hover:bg-blue-800 transition-colors"
           >
             Contact Me
           </a>
